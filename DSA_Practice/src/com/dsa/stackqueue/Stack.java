@@ -1,4 +1,4 @@
-package com.dsa.stack;
+package com.dsa.stackqueue;
 
 public class Stack {
 
